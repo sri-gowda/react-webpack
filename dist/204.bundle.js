@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkreact_webpack=self.webpackChunkreact_webpack||[]).push([[204],{204:(e,t,a)=>{a.r(t),a.d(t,{About:()=>u});var c=a(294),u=function(){return c.createElement("div",null,"Hiii this is About page")}}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkreact_webpack=self.webpackChunkreact_webpack||[]).push([[928],{928:(e,t,a)=>{a.r(t),a.d(t,{Contact:()=>n});var c=a(294),n=function(){return c.createElement("div",null,"Hiii this is Contact page")}}}]);
